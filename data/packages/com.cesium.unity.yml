@@ -1,0 +1,24 @@
+name: com.cesium.unity
+displayName: Cesium for Unity
+description: >-
+  Cesium for Unity brings the 3D geospatial ecosystem to Unity. By combining a
+  high-accuracy full-scale WGS84 globe, open APIs and open standards for spatial
+  indexing such as 3D Tiles, and cloud-based real-world content from [Cesium
+  ion](https://cesium.com/cesium-ion) with Unity, this plugin enables 3D
+  geospatial workflows and applications in Unity.
+repoUrl: https://github.com/CesiumGS/cesium-unity
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+image: ''
+topics:
+  - ar-and-vr
+  - frameworks
+  - modeling
+  - terrain
+hunter: UtilXK
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1704174893139
